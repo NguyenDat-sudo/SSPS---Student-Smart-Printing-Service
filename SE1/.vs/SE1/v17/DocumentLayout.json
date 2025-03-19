@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\SE1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\views\\student\\print4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\views\\student\\print4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\views\\ssps\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\views\\ssps\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\views\\student\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\views\\student\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\views\\student\\print3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\views\\student\\print3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\controllers\\sspscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\controllers\\sspscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|c:\\users\\dell\\source\\repos\\se1\\se1\\views\\student\\setting_changemoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25CAA679-09FD-4C1B-84DF-83C3B40623C6}|SE1\\SE1.csproj|solutionrelative:se1\\views\\student\\setting_changemoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "SE1\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "SE1\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T03:32:41.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\SSPS\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SE1\\Views\\SSPS\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\SSPS\\Dashboard.cshtml",
+              "RelativeToolTip": "SE1\\Views\\SSPS\\Dashboard.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwD8AAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T11:32:04.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SSPSController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Controllers\\SSPSController.cs",
+              "RelativeDocumentMoniker": "SE1\\Controllers\\SSPSController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Controllers\\SSPSController.cs",
+              "RelativeToolTip": "SE1\\Controllers\\SSPSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:45:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Setting_ChangeMoney.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Setting_ChangeMoney.cshtml",
+              "RelativeDocumentMoniker": "SE1\\Views\\Student\\Setting_ChangeMoney.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Setting_ChangeMoney.cshtml",
+              "RelativeToolTip": "SE1\\Views\\Student\\Setting_ChangeMoney.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T09:18:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Print.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Print.cshtml",
+              "RelativeDocumentMoniker": "SE1\\Views\\Student\\Print.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Print.cshtml",
+              "RelativeToolTip": "SE1\\Views\\Student\\Print.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:54:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Print4.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Print4.cshtml",
+              "RelativeDocumentMoniker": "SE1\\Views\\Student\\Print4.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Print4.cshtml",
+              "RelativeToolTip": "SE1\\Views\\Student\\Print4.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:34:24.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Print3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Print3.cshtml",
+              "RelativeDocumentMoniker": "SE1\\Views\\Student\\Print3.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Views\\Student\\Print3.cshtml",
+              "RelativeToolTip": "SE1\\Views\\Student\\Print3.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAgwNIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T08:36:07.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SE1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\SE1\\SE1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SE1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:07:09.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
